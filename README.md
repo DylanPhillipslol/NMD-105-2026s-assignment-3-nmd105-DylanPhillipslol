@@ -7,5 +7,13 @@ URL:https://editor.p5js.org/DylanPhillips/sketches/K7Tx_M5p0
 Recap: Wasn't half bad. I liked the idea of adding an (if) function to the sprite because it feels like we're ever so slowly inching toward real video game interactivity. 
 ---
 Phillips_Dylan_assignment3.txt Assignment 3 Challenge 3
-URL:https://editor.p5js.org/DylanPhillips/sketches/M4QT2BMM1
+URL:https://editor.p5js.org/DylanPhillips/sketches/Wqh7CVDSM
 Recap: Creating the falling sprite was more painful for me to simply create the shapes of the bannana that I really wanted to see. I was fiddling around with it for way too long. The rest of the exercise wasn't too tedious.
+---
+Phillips_Dylan_assignment3.txt Assignment 3 Challenge 4
+URL:https://editor.p5js.org/DylanPhillips/sketches/M4QT2BMM1
+Recap:I like these smaller more incremental work ins for fucntions 
+---
+Phillips_Dylan_assignment3.txt Assignment 3 Challenge 5
+URL:https://editor.p5js.org/DylanPhillips/sketches/M4QT2BMM1
+Recap: This was the final straw on my haystack of globals. I'm proud of getting all of the basic functions down. However I still struggle with the collision zone remaining after the bannana is caught. It still works though.
